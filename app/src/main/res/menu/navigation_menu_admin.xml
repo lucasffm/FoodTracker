@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/minha_conta_admin" android:title="Minha Conta" android:icon="@mipmap/ic_person_black_24dp"/>
+    <item android:id="@+id/localizacao_nikko" android:title="Localização atual do Nikko Temaki" android:icon="@mipmap/ic_pin_drop_black_24dp"/>
+    <item android:id="@+id/agenda_nikko" android:title="Agenda do Nikko Temaki" android:icon="@mipmap/ic_date_range_black_24dp"/>
+    <item android:id="@+id/relatorio_cartao_fidelidade" android:title="Relatório Cartão Fidelidade" android:icon="@mipmap/ic_card_giftcard_black_24dp"/>
+    <item android:id="@+id/relatorio_notificacao" android:title="Relatório Notificação" android:icon="@mipmap/ic_favorite_black_24dp"/>
+    <item android:id="@+id/relatorio_visu_check" android:title="Relatório Visualização x Check-in" android:icon="@mipmap/ic_star_rate_black_18dp"/>
+    <item android:id="@+id/relatorio_avaliacao" android:title="Relatório Avaliações" android:icon="@mipmap/ic_star_rate_black_18dp"/>
+    <item android:id="@+id/relatorio_sugestao" android:title="Sugestões que foram feitas" android:icon="@mipmap/ic_star_rate_black_18dp"/>
+    <item android:id="@+id/logout" android:title="Sair" android:icon="@mipmap/ic_exit_to_app_black_24dp"/>
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927668939697",
+    "firebase_url": "https://projetofinal-dde43.firebaseio.com",
+    "project_id": "projetofinal-dde43",
+    "storage_bucket": "projetofinal-dde43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927668939697:android:1ee656e5e98801ec",
+        "android_client_info": {
+          "package_name": "br.com.projetofinal.foodtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927668939697-a1rp55s4f71rd0te72g6pj82t5g7ufkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.projetofinal.foodtracker",
+            "certificate_hash": "D86797E9C10D9BA30AB3573FCA307CC563DF3B0D"
+          }
+        },
+        {
+          "client_id": "927668939697-n9b61432n5i9ctvpfujq32vb7n4vjg9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1iWtJeLyV0mF9fVQtr65hBfRJOueWmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927668939697-n9b61432n5i9ctvpfujq32vb7n4vjg9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

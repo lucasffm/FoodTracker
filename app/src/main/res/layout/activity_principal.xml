@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="br.com.projetofinal.foodtracker.activity.PrincipalActivity"
+    android:id="@+id/drawer_layout_usuario">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="@string/label_login"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="75dp"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="51dp"
+            android:id="@+id/lbl_login" />
+
+        <TextView
+            android:text="@string/lbl_nome"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lbl_login"
+            android:layout_alignLeft="@+id/lbl_login"
+            android:layout_alignStart="@+id/lbl_login"
+            android:layout_marginTop="20dp"
+            android:id="@+id/lbl_nome" />
+
+        <TextView
+            android:text="@string/lbl_cpf"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lbl_nome"
+            android:layout_alignLeft="@+id/lbl_nome"
+            android:layout_alignStart="@+id/lbl_nome"
+            android:layout_marginTop="17dp"
+            android:id="@+id/lbl_cpf" />
+        <TextView
+            android:text="@string/lbl_endereco"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lbl_cpf"
+            android:layout_alignLeft="@+id/lbl_cpf"
+            android:layout_alignStart="@+id/lbl_cpf"
+            android:layout_marginTop="10dp"
+            android:id="@+id/lbl_endereco" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:textColor="#FFFFFF"
+            android:padding="10dp"
+            android:id="@+id/btn_alterar_dados"
+            android:text="@string/btn_alterar_dados"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_alignBaseline="@+id/btn_excluir_dados"
+            android:layout_alignBottom="@+id/btn_excluir_dados"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:text="@string/btn_excluir_conta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:textColor="#FFFFFF"
+            android:padding="10dp"
+            android:id="@+id/btn_excluir_dados"
+            android:layout_marginBottom="36dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="19dp"
+            android:layout_marginEnd="19dp" />
+
+    </RelativeLayout>
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/navigation_view"
+        app:menu="@menu/navigation_menu"
+        android:layout_gravity="start">
+
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Nikko Temaki</string>
+    <string name="label_login">Login:</string>
+    <string name="label_senha">Senha:</string>
+    <string name="btn_logar">Logar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="lbl_registro_login">Login</string>
+    <string name="lbl_registro_senha">Senha</string>
+    <string name="lbl_registro_nome">Nome</string>
+    <string name="lbl_registro_complemento">Complemento</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="bem_vindo_nikko">Bem vindo ao aplicativo do Nikko Temaki, acesse o menu a esquerda para descobrir mais sobre o Nikko Temaki</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category_state">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapa</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espirito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraíma</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_cpf">CPF:</string>
+    <string name="lbl_endereco">Endereço:</string>
+    <string name="lbl_cep">CEP:</string>
+    <string name="lbl_estado">Estado:</string>
+    <string name="lbl_cidade">Cidade:</string>
+    <string name="btn_alterar_dados">Alterar dados</string>
+    <string name="btn_excluir_conta">Excluir conta</string>
+    <string name="lbl_cartao_fidelidade">Cartão Fidelidade</string>
+    <string name="lbl_total_cadastrados">Códigos Cadastrados:</string>
+    <string name="lbl_codigos_restantes">Insira mais x códigos para ser contemplado.</string>
+    <string name="btn_cadastrar_qrcode">Cadastrar QRCode</string>
+    <string name="btn_utilizar_premio">Utilizar Premio</string>
+    <string name="carregar_qrcodes">Carregar QrCodes</string>
+    <string name="lbl_carregar_qrcodes">Clique no botão para gerar os QrCodes.</string>
+    <string name="ok">Carregar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="lbl_premio">Prêmio do Cartão Fidelidade</string>
+    <string name="txt_premio">Parabéns nome, você ganhou %Desconto no Nikko Temaki, apresente esté cupom até o dia x e aproveite o melhor food truck japonês do DF.</string>
+    <string name="data_premio">xx/xx/xxxx</string>
+    <string name="title_activity_localizacao">Map</string>
+
+</resources>

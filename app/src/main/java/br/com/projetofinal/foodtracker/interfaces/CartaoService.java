@@ -14,7 +14,7 @@ import retrofit2.http.Path;
  */
 
 public interface CartaoService {
-    public static final String BASE_URL = "http://nikkotemaki.ddns.net:8080/NikkoWS/webresources/";
+    String BASE_URL = "http://192.168.43.122:8080/NikkoWS/webresources/";
 
     @GET("cartaofidelidade/inserirqrcode/{inserir}")
     Call<String> gerarQrCode(@Path("inserir") String content);

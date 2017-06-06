@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.8.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.2.0\\res\\raw\\zxing_beep.ogg"
+    }
+]

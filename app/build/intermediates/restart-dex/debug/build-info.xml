@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="36842780225053"
+    token="-6782916135456635605"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="522" />
+    <task
+        name="instant-run-dex"
+        duration="383" />
+    <task
+        name="instant-run-transform"
+        duration="44" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="35528533872706"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="36237200826849"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="36394067931583"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36394067931583\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36421824118916"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36421824118916\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36465557657256"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36465557657256\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36575843902644"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36575843902644\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36702654212695"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36702654212695\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36743628048976"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36743628048976\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36757039618774"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36757039618774\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36770525823164"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36770525823164\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36827974752311"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\builds\debug\36827974752311\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="36842780225053"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

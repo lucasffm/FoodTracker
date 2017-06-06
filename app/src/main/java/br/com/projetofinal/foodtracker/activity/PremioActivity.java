@@ -26,14 +26,12 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-import br.com.projetofinal.foodtracker.Dec.PessoaDec;
+import br.com.projetofinal.foodtracker.dec.PessoaDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.CartaoService;
 import br.com.projetofinal.foodtracker.interfaces.PessoaService;
-import br.com.projetofinal.foodtracker.mascaras.Mask;
 import br.com.projetofinal.foodtracker.modelo.CartaoFidelidade;
 import br.com.projetofinal.foodtracker.modelo.Pessoa;
-import br.com.projetofinal.foodtracker.modelo.QrCode;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

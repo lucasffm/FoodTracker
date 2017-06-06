@@ -18,8 +18,8 @@ import com.google.gson.GsonBuilder;
 import com.google.zxing.integration.android.IntentIntegrator;
 import com.google.zxing.integration.android.IntentResult;
 
-import br.com.projetofinal.foodtracker.Dec.CartaoDec;
-import br.com.projetofinal.foodtracker.Dec.QrCodeDec;
+import br.com.projetofinal.foodtracker.dec.CartaoDec;
+import br.com.projetofinal.foodtracker.dec.QrCodeDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.CartaoService;
 import br.com.projetofinal.foodtracker.modelo.CartaoFidelidade;
@@ -133,12 +133,12 @@ public class CartaoFidelidadeActivity extends AppCompatActivity {
                         startActivity(intent);
                         break;
                     case R.id.localizacao_nikko:
-                        intent = new Intent(getApplicationContext(), PrincipalActivity.class);
+                        intent = new Intent(getApplicationContext(), LocalizacaoAtualActivity.class);
                         intent.putExtra("id_usuario", id_usuario);
                         startActivity(intent);
                         break;
                     case R.id.agenda_nikko:
-                        intent = new Intent(getApplicationContext(), PrincipalActivity.class);
+                        intent = new Intent(getApplicationContext(), AgendaUsuarioActivity.class);
                         intent.putExtra("id_usuario", id_usuario);
                         startActivity(intent);
                         break;
@@ -147,12 +147,12 @@ public class CartaoFidelidadeActivity extends AppCompatActivity {
                         intent.putExtra("id_usuario", id_usuario);
                         break;
                     case R.id.sugestoes:
-                        intent = new Intent(getApplicationContext(), PrincipalActivity.class);
+                        intent = new Intent(getApplicationContext(), SugestaoActivity.class);
                         intent.putExtra("id_usuario", id_usuario);
                         startActivity(intent);
                         break;
                     case R.id.avaliação:
-                        intent = new Intent(getApplicationContext(), PrincipalActivity.class);
+                        intent = new Intent(getApplicationContext(), AvaliacaoActivity.class);
                         intent.putExtra("id_usuario", id_usuario);
                         startActivity(intent);
                         break;

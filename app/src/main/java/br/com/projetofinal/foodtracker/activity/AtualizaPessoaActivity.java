@@ -14,7 +14,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import br.com.projetofinal.foodtracker.Dec.PessoaDec;
+import br.com.projetofinal.foodtracker.dec.PessoaDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.PessoaService;
 import br.com.projetofinal.foodtracker.mascaras.Mask;
@@ -48,7 +48,8 @@ public class AtualizaPessoaActivity extends AppCompatActivity {
         Bundle extras = getIntent().getExtras();
         if(extras.getInt("id_usuario") != 0)
         {
-            id_usuario = extras.getInt("id_usuario");        }
+            id_usuario = extras.getInt("id_usuario");
+        }
 
 
 

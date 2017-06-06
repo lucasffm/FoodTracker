@@ -15,7 +15,7 @@ import retrofit2.http.Path;
  * Created by Lucas on 17/09/2016.
  */
 public interface PessoaService {
-    public static final String BASE_URL = "http://nikkotemaki.ddns.net:8080/NikkoWS/webresources/";
+    String BASE_URL = "http://192.168.43.122:8080/NikkoWS/webresources/";
 
     @GET("pessoa/recuperaPessoas")
     Call<List<Pessoa>> getPessoas();

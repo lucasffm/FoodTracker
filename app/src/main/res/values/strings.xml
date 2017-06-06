@@ -48,6 +48,13 @@
         <item>Tocantins</item>
     </string-array>
 
+    <string-array name="areas_nikko">
+        <item>Cozinha</item>
+        <item>Atendimento</item>
+        <item>Comida</item>
+        <item>Ambiente</item>
+    </string-array>
+
     <string name="lbl_nome">Nome:</string>
     <string name="lbl_cpf">CPF:</string>
     <string name="lbl_endereco">Endereço:</string>
@@ -69,5 +76,23 @@
     <string name="txt_premio">Parabéns nome, você ganhou %Desconto no Nikko Temaki, apresente esté cupom até o dia x e aproveite o melhor food truck japonês do DF.</string>
     <string name="data_premio">xx/xx/xxxx</string>
     <string name="title_activity_localizacao">Map</string>
+    <string name="title_activity_maps">Mapa Agenda</string>
+    <string name="adicionar_agenda">Adicionar</string>
+    <string name="atualizar_agenda">Atualizar Agenda</string>
+    <string name="label_hora_inicio">Hora de Inicio:</string>
+    <string name="label_hora_fim">Hora Fim:</string>
+    <string name="btn_consultar_agenda">Consultar</string>
+    <string name="lbl_consulta_agenda">Agenda Nikko Temaki</string>
+    <string name="lbl_cozinha">Cozinha</string>
+    <string name="lbl_atendimento">Atendimento</string>
+    <string name="lbl_comida">Comida</string>
+    <string name="lbl_ambiente">Ambiente</string>
+    <string name="lbl_avaliacao_titulo">Por favor selecione as notas para cada área de servico do nikko temaki, caso não tenha feito nenhum check-in nos últimos 7 dias você não poderá fazer nenhuma avaliação.</string>
+    <string name="btn_enviar_avaliacao">Enviar Avaliação</string>
+    <string name="lbl_sugestao">Seleciona abaixo a área do nikko temaki que deseja fazer sua sugestão.</string>
+    <string name="btn_enviar_sugestao">Enviar Sugestão</string>
+    <string name="edt_sugestao">Escreva aqui sua sugestão...</string>
+    <string name="btn_relatorio_avaliacao">Gerar</string>
+    <string name="lbl_media_cozinha">Cozinha</string>
 
 </resources>

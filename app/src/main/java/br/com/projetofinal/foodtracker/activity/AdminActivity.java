@@ -1,6 +1,5 @@
 package br.com.projetofinal.foodtracker.activity;
 
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.annotation.NonNull;
@@ -18,7 +17,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import br.com.projetofinal.foodtracker.Dec.QrCodeDec;
+import br.com.projetofinal.foodtracker.dec.QrCodeDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.CartaoService;
 import br.com.projetofinal.foodtracker.modelo.QrCode;
@@ -31,9 +30,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class AdminActivity extends AppCompatActivity {
     private DrawerLayout mDrawerLayout;
     private ActionBarDrawerToggle mToggle;
+    private NavigationView navigationView;
     private Button btnGerarQr;
     private Intent intent;
-    private NavigationView navigationView;
 
 
     @Override
@@ -102,35 +101,27 @@ public class AdminActivity extends AppCompatActivity {
                     case R.id.minha_conta_admin:
                         Toast.makeText(getApplicationContext(), "Você já está nessa opção", Toast.LENGTH_SHORT).show();
                         break;
-                    case R.id.localizacao_nikko:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
-                        intent.putExtra("id_usuario", finalId_usuario);
-                        startActivity(intent);
-                        break;
                     case R.id.agenda_nikko:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
+                        intent = new Intent(getApplicationContext(), MapsActivity.class);
+                        intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
                     case R.id.relatorio_cartao_fidelidade:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
+                        Toast.makeText(getApplicationContext(), "Opção desativada", Toast.LENGTH_SHORT).show();
+                        break;
+                    case R.id.relatorio_notificacao:
+                        Toast.makeText(getApplicationContext(), "Opção desativada", Toast.LENGTH_SHORT).show();
+                        break;
+                    case R.id.relatorio_visu_check:
+                        Toast.makeText(getApplicationContext(), "Opção desativada", Toast.LENGTH_SHORT).show();
+                        break;
+                    case R.id.relatorio_avaliacao:
+                        intent = new Intent(getApplicationContext(), RelatorioAvaliacaoActivity.class);
                         intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
-                    case R.id.relatorio_notificacao:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
-                        startActivity(intent);
-                        break;
-                    case R.id.relatorio_visu_check:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
-                        startActivity(intent);
-                        break;
-                    case R.id.relatorio_avaliacao:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
-                        startActivity(intent);
-                        break;
                     case R.id.relatorio_sugestao:
-                        intent = new Intent(getApplicationContext(), AdminActivity.class);
-                        startActivity(intent);
+                        Toast.makeText(getApplicationContext(), "Opção desativada", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.logout:
                         intent = new Intent(getApplicationContext(), MainActivity.class);

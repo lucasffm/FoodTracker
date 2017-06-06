@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_pin_drop_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_pin_drop_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_card_giftcard_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_card_giftcard_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_date_range_black_36dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_date_range_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_search_black_36dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_search_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_favorite_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_favorite_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_person_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_star_rate_black_18dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_star_rate_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_date_range_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_date_range_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_exit_to_app_black_24dp.png",
+        "source": "C:\\Users\\Lucas\\AndroidStudioProjects\\FoodTracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_exit_to_app_black_24dp.png"
+    }
+]

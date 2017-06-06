@@ -3,7 +3,6 @@ package br.com.projetofinal.foodtracker.activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -12,7 +11,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import br.com.projetofinal.foodtracker.Dec.PessoaDec;
+import br.com.projetofinal.foodtracker.dec.PessoaDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.PessoaService;
 import br.com.projetofinal.foodtracker.modelo.Pessoa;

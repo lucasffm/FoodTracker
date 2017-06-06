@@ -1,13 +1,14 @@
 package br.com.projetofinal.foodtracker.activity;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
@@ -17,11 +18,9 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import br.com.projetofinal.foodtracker.Dec.PessoaDec;
+import br.com.projetofinal.foodtracker.dec.PessoaDec;
 import br.com.projetofinal.foodtracker.R;
 import br.com.projetofinal.foodtracker.interfaces.PessoaService;
-import br.com.projetofinal.foodtracker.mascaras.Mask;
-import br.com.projetofinal.foodtracker.modelo.Endereco;
 import br.com.projetofinal.foodtracker.modelo.Pessoa;
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -36,6 +35,7 @@ public class PrincipalActivity extends AppCompatActivity {
     private NavigationView navigationView;
     private Intent intent;
     private Button btnAlterar, btnExcluir;
+    private AlertDialog alerta;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,31 +90,50 @@ public class PrincipalActivity extends AppCompatActivity {
         btnExcluir.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Gson g = new GsonBuilder().registerTypeAdapter(Pessoa.class, new PessoaDec()).create();
-                Retrofit retrofit = new Retrofit.Builder()
-                        .baseUrl(PessoaService.BASE_URL)
-                        .addConverterFactory(GsonConverterFactory.create(g))
-                        .build();
-                PessoaService pessoaService = retrofit.create(PessoaService.class);
-                Call<Boolean> call = pessoaService.excluirPessoa(finalId_usuario1);
-                call.enqueue(new Callback<Boolean>() {
-                    @Override
-                    public void onResponse(Call<Boolean> call, Response<Boolean> response) {
-                        if(response.body() == true){
-                            Toast.makeText(getApplicationContext(), "Conta excluida com sucesso!", Toast.LENGTH_SHORT).show();
-                            intent = new Intent(PrincipalActivity.this, MainActivity.class);
-                            startActivity(intent);
-                            finish();
-                        }else{
-                            Toast.makeText(getApplicationContext(), "Não foi possível excluir sua conta, verifique se você possui conexão com a internet", Toast.LENGTH_SHORT).show();
-                        }
-                    }
 
-                    @Override
-                    public void onFailure(Call<Boolean> call, Throwable t) {
+                AlertDialog.Builder builder = new AlertDialog.Builder(PrincipalActivity.this);
+                builder.setTitle("Tem Certeza que deseja excluir sua conta?");
+                //define um botão como positivo
+                builder.setPositiveButton("Sim", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface arg0, int arg1) {
+                        Gson g = new GsonBuilder().registerTypeAdapter(Pessoa.class, new PessoaDec()).create();
+                        Retrofit retrofit = new Retrofit.Builder()
+                                .baseUrl(PessoaService.BASE_URL)
+                                .addConverterFactory(GsonConverterFactory.create(g))
+                                .build();
+                        PessoaService pessoaService = retrofit.create(PessoaService.class);
+                        Call<Boolean> call = pessoaService.excluirPessoa(finalId_usuario1);
+                        call.enqueue(new Callback<Boolean>() {
+                            @Override
+                            public void onResponse(Call<Boolean> call, Response<Boolean> response) {
+                                if(response.body() == true){
+                                    Toast.makeText(getApplicationContext(), "Conta excluida com sucesso!", Toast.LENGTH_SHORT).show();
+                                    intent = new Intent(PrincipalActivity.this, MainActivity.class);
+                                    startActivity(intent);
+                                    finish();
+                                }else{
+                                    Toast.makeText(getApplicationContext(), "Não foi possível excluir sua conta, verifique se você possui conexão com a internet", Toast.LENGTH_SHORT).show();
+                                }
+                            }
 
+                            @Override
+                            public void onFailure(Call<Boolean> call, Throwable t) {
+
+                            }
+                        });
                     }
                 });
+                //define um botão como negativo.
+                builder.setNegativeButton("Não", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface arg0, int arg1) {
+                        return;
+                    }
+                });
+                //cria o AlertDialog
+                alerta = builder.create();
+                //Exibe
+                alerta.show();
+
             }
         });
 
@@ -133,11 +152,13 @@ public class PrincipalActivity extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(), "Você já está nessa opção", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.localizacao_nikko:
-                        intent = new Intent(getApplicationContext(), CartaoFidelidadeActivity.class);
+                        intent = new Intent(getApplicationContext(), LocalizacaoAtualActivity.class);
+                        intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
                     case R.id.agenda_nikko:
-                        intent = new Intent(getApplicationContext(), CartaoFidelidadeActivity.class);
+                        intent = new Intent(getApplicationContext(), AgendaUsuarioActivity.class);
+                        intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
                     case R.id.cartao_fidelidade:
@@ -146,15 +167,17 @@ public class PrincipalActivity extends AppCompatActivity {
                         startActivity(intent);
                         break;
                     case R.id.sugestoes:
-                        intent = new Intent(getApplicationContext(), CartaoFidelidadeActivity.class);
+                        intent = new Intent(getApplicationContext(), SugestaoActivity.class);
+                        intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
                     case R.id.avaliação:
-                        intent = new Intent(getApplicationContext(), CartaoFidelidadeActivity.class);
+                        intent = new Intent(getApplicationContext(), AvaliacaoActivity.class);
+                        intent.putExtra("id_usuario", finalId_usuario);
                         startActivity(intent);
                         break;
                     case R.id.logout:
-                        intent = new Intent(getApplicationContext(), CartaoFidelidadeActivity.class);
+                        intent = new Intent(getApplicationContext(), MainActivity.class);
                         startActivity(intent);
                         finish();
                         break;

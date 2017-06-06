@@ -12,6 +12,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_51de984de374c9189f11233180be22cc9d37f871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3cab06fc5765dd6137beabd25488c4f0b1ffacb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -20,13 +38,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_956cdcbd55b65fbaf8b46446b9832829d70920b0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_21b65591cc569b890f23ea4dd0c7924ca7ddb87b.jar" />
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_85824557fffb5234a797f4997514845a30146eb9\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -34,35 +52,17 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="2e5883dd54df68b55144952dcdfa7d2d2a6c9f7b">
+        sha1="dad41a053b34ed3d19214d319e1178f2db1923db">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22623a7fd7459b4a2ee84fdd3fc34d6fee09b559\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_696342b7e1ab5212022659b503e8bf58fef66fe9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_87e18df4b8727f80925694f355d02d3dd45bd742.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_27f5e7a274751b640020a9ce54ccc520946308b3.jar" />
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_0ee0eac47a194d639824152a3306d8e65cae0e91\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_672f8494ed32129d291ba26127885a5b46b2334b\classes.dex" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_27f5e7a274751b640020a9ce54ccc520946308b3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -92,15 +92,6 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_531fad4d78d3a622c97e1d407da34b786f13366d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_8573fa9dcad119780a60215956e9a473c695b20c.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
@@ -110,13 +101,31 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a4cfab62a7fa3c2fa6c0aa6620710915af68ad4\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_10ad3132f33e0a454803667345e1cdfcf5a89e1c.jar" />
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_5d5b4816e15c47ef5b0b074693c95030ef911549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_7553b90bf7cee884b372f7ea7c7e1362c52af8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.1\369f9aa48a629b4e92557b37326f42dc3de796e4\MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.1_aeb9971ee4946d49cf68408d41d049f07283e11b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -128,49 +137,40 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_35e1736fa15a21425c1fc3d60336c9473bf2cfa4\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c6653992228197c8488067fac7ce0c01253496e.jar" />
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_a73e550b31da8b956680f3fa837acb8476085054\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_9a4099cfeb706424c844d9dbff1b940016ba9da0.jar" />
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_10ad3132f33e0a454803667345e1cdfcf5a89e1c\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_32387b05e05f4c17d594a5d0a9263cd8c4daa966.jar" />
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_42c1a7af48e7d7bc12ba79978ad90e4423391f15\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_4903d563ff0cef8dc78e09c6202ced1a92f0ce35.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\core-3.2.1_1409911881cff1c65ed58e7373d3c52392c63d8b.jar" />
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_3ec8e2608945ab84817513389c39b55159338997\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,12 +183,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_a10bf108b58e413458132dce9e36a0d48fd56bb8\classes.dex" />
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_c621358b2e80eb042d4de61e0997c7f1235e79b2\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -209,94 +209,31 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_8fd6e48e237d436f66c40d0055f7dfe5db3fcbd1\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_920dec68ba358a28bfc09db4ff9390d0ad25c867.jar" />
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_0a80418e888ed80de3f842432424dcb3fa6021a3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_d3fca5fe2eb982e2e5c1e64ef4c05430f5676a74\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_d44b91b85490d7523b14e5a22c4ce322a7de48f5.jar" />
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_4a18e389352b45d578616697791a8888b578d90d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_74ee2ab127ecdd008e3014884dee72fd889fe851\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_237a8b1859960bf895bbb2a7999662c7ea0b2b6d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_3ec8e2608945ab84817513389c39b55159338997.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_01ac618826463744900b879fa07e9628a70e77c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_c5a1872a33e2911f4dafc8be67321d3ebd14ad00.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_8b3eca8329ebada561416dcd67714c99871c45f5.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_291d34e410f6da018539623c3ee5e129cffefa80\classes.dex" />
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_66702ba1c19780e733cd3e6452fac9389ce372b0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -308,31 +245,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_87e18df4b8727f80925694f355d02d3dd45bd742\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_5d2ef4d06592c37f1e3ecded2ee8be1475cf1b28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_59b28ea4197b556037b444292e2f575518f35098.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_531fad4d78d3a622c97e1d407da34b786f13366d.jar" />
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_dc3d5ccd16956aae026ec00a89bec27f72772a9a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -342,6 +261,15 @@
         revision="24.0.1"
         sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_ea50bfcd3f23ab7e55d89e514ee87453a224c522\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8a4cfab62a7fa3c2fa6c0aa6620710915af68ad4\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -363,39 +291,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_599c215428ec5026e0990e53a109ef32d6ac7234\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_1450224c9be2e3651ec4a687865c06542c28eac6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8a4cfab62a7fa3c2fa6c0aa6620710915af68ad4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_1d5b7a6e9d57b3f538dd271d41acb4aeea621c92.jar" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_531fad4d78d3a622c97e1d407da34b786f13366d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -405,24 +306,6 @@
         revision="24.0.1"
         sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_10ad3132f33e0a454803667345e1cdfcf5a89e1c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_7e1dfed6ec995e299ff438c1d288478718a6259d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_3fa64e1a120abe096a466648674876482204b90a.jar" />
     </item>
     <item
         is-multidex="true"
@@ -443,24 +326,6 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_7553b90bf7cee884b372f7ea7c7e1362c52af8ab\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_69ba5bc84ae0145f8767b6ba08791b6fd318f06a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_1ffa67e587274d4aeff47907484f758e57928b87.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
         jumboMode="true"
@@ -468,6 +333,609 @@
         revision="24.0.1"
         sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_c621358b2e80eb042d4de61e0997c7f1235e79b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_2ad51c70cc1e69fe07631667ce58006394a0e2d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_491e1aaacf3c05b13852d6d2e9bcbb505096ba15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_4a18e389352b45d578616697791a8888b578d90d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_0a80418e888ed80de3f842432424dcb3fa6021a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_19a08a6120ecad9e5a769086e645ce3134b41b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_87e18df4b8727f80925694f355d02d3dd45bd742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_c96e1e5d0aefce6c3fe3434fd34a23ebda74932c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_6d465b53edab268064d911b4d3033b247db78f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_fad01ce94e8c17f6d4ac1c11e5aba52812ff9a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e59bec7b6870432ff38e589b17ceece3d3e3225e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_51f3c674b0480f16943b547ebbe6b86151a92600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5eb177f36ca45bdc60d63bdce013b454d60fc514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_1bd4054c52e4de7a1e347303e2868d7fe8ab8c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="07f3b693bdb3b082541ebdf0492a610973eda18e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e482a40dd642ab2f9d93573fcb9046adbc50cab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bed3af2221e0ca86556f83355cb122a4f1645fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_7e1dfed6ec995e299ff438c1d288478718a6259d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_8b25d09e4c2e179f38bdffb056fd3ca8f599d700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_c96e1e5d0aefce6c3fe3434fd34a23ebda74932c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8e49bd6f73c45ecc5c75acf26c53c9251205cf24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_2ad51c70cc1e69fe07631667ce58006394a0e2d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_16f3b350cb90dc4519942c9cb8fe375c92ff4f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e56237abd26879c3ff682d64973f416a1f4472f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_fad01ce94e8c17f6d4ac1c11e5aba52812ff9a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_80afd7190fdfaf39991999c3e7270efb50eef21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_19a08a6120ecad9e5a769086e645ce3134b41b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5eb177f36ca45bdc60d63bdce013b454d60fc514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_35e1736fa15a21425c1fc3d60336c9473bf2cfa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_1ae4123743f7f7624990eaf4a533cb135b0af965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_27f5e7a274751b640020a9ce54ccc520946308b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_5bc243d783cef60cbc94292d35eb29b53e416565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_84f91949e27cbf152751c682ed670ab3c08dddc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_8fd6e48e237d436f66c40d0055f7dfe5db3fcbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_51f3c674b0480f16943b547ebbe6b86151a92600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bed3af2221e0ca86556f83355cb122a4f1645fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3cab06fc5765dd6137beabd25488c4f0b1ffacb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f6f61e8d38b65fad286c3a9e6bad5a6da3a7a968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e59bec7b6870432ff38e589b17ceece3d3e3225e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_35ea651fde3552ab4f0cf0ca7240e0d6ec655c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8e49bd6f73c45ecc5c75acf26c53c9251205cf24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e56237abd26879c3ff682d64973f416a1f4472f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_1bd4054c52e4de7a1e347303e2868d7fe8ab8c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_16f3b350cb90dc4519942c9cb8fe375c92ff4f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_80afd7190fdfaf39991999c3e7270efb50eef21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_291d34e410f6da018539623c3ee5e129cffefa80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_5bc243d783cef60cbc94292d35eb29b53e416565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_32387b05e05f4c17d594a5d0a9263cd8c4daa966\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_672f8494ed32129d291ba26127885a5b46b2334b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_66677d6701c5560ece0ce2744a8a1fcb7d7e3a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2c6653992228197c8488067fac7ce0c01253496e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_76e4b06c179da1631ed943f6176a3fbe91123ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_a10bf108b58e413458132dce9e36a0d48fd56bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_1409911881cff1c65ed58e7373d3c52392c63d8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_d3fca5fe2eb982e2e5c1e64ef4c05430f5676a74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_1ae4123743f7f7624990eaf4a533cb135b0af965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_74ee2ab127ecdd008e3014884dee72fd889fe851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_237a8b1859960bf895bbb2a7999662c7ea0b2b6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_35ea651fde3552ab4f0cf0ca7240e0d6ec655c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_01ac618826463744900b879fa07e9628a70e77c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_142f7c65e2bac2560b60cf68b6bff76c50a445ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_291d34e410f6da018539623c3ee5e129cffefa80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_01ac618826463744900b879fa07e9628a70e77c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_599c215428ec5026e0990e53a109ef32d6ac7234\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_672f8494ed32129d291ba26127885a5b46b2334b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_74ee2ab127ecdd008e3014884dee72fd889fe851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_1ffa67e587274d4aeff47907484f758e57928b87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_7e1dfed6ec995e299ff438c1d288478718a6259d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_3dae8b99671e6c0ea3a440cce8f907101f186a69\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -498,39 +966,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_491e1aaacf3c05b13852d6d2e9bcbb505096ba15\classes.dex" />
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_d5dcc9ec2b8a866bcee896811f48594e186bd369\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_4a18e389352b45d578616697791a8888b578d90d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_df5e36186b66e10954963b7cccb423e1fc110a53.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.2.0_f83b34cf46302dfb5ebd2b0125e77c233ecb2193.jar" />
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_33114de9346a40b7f6eee8b100e4bc353b5e1289\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -551,130 +1001,49 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_1409911881cff1c65ed58e7373d3c52392c63d8b\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_b950fdc6859b54e7233e5c88a7799361dc5f30cf.jar" />
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_8b25d09e4c2e179f38bdffb056fd3ca8f599d700\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_0a80418e888ed80de3f842432424dcb3fa6021a3\classes.dex" />
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_f83b34cf46302dfb5ebd2b0125e77c233ecb2193\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_19a08a6120ecad9e5a769086e645ce3134b41b2b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_7b6650c2fd3c0439f96eb0b1e01a6ac2057c21d5.jar" />
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_a10bf108b58e413458132dce9e36a0d48fd56bb8\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_93a52d959909a3b82bbb8b0373b9d2b8e2ef4051.jar" />
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_e6943a28b81edcdab7c3f379319aa1fb1e0549b0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a48dc0b148059764d32500be558702d5ff932058">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_a90e93095f2441e23a33002b5058ca2a22987a31.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_1e8ab4d49df386a5d4f94c7e7dd219cfe05853fd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_f5308e3d179b1977ab05f7dbf6820315b48e5ca8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_46ccadafdeeabfbb8daa028fe7a44c7e03b008b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_582498f032a8e01996d3446b32bae66943b44eb8.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e59bec7b6870432ff38e589b17ceece3d3e3225e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_51f3c674b0480f16943b547ebbe6b86151a92600\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\okio-1.8.0_599c215428ec5026e0990e53a109ef32d6ac7234.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_c77a5bba03f657445707a6e360968433ad30a16b.jar" />
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_582498f032a8e01996d3446b32bae66943b44eb8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -686,49 +1055,49 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_1d5b7a6e9d57b3f538dd271d41acb4aeea621c92\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_898e72750b65080d6abd6237c96dcfaccb34b23c.jar" />
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_599c215428ec5026e0990e53a109ef32d6ac7234\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="cc8a1995d1b1f3c40f4bda3cbd6639549323a1f2">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e482a40dd642ab2f9d93573fcb9046adbc50cab8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bed3af2221e0ca86556f83355cb122a4f1645fd7\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_a2c2b5de893051ff37e3dd15d5feda01a41c0777.jar" />
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_149e2a3e0ddc4c155a2733198ab012b230c8725b\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3c10ae96e6b2348f487998c73d9d44f912445713.jar" />
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3c10ae96e6b2348f487998c73d9d44f912445713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_ac44a614d3ac0bf243966445f6e917d1b7dd6d53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_491e1aaacf3c05b13852d6d2e9bcbb505096ba15\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -747,24 +1116,6 @@
         revision="24.0.1"
         sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_d5dcc9ec2b8a866bcee896811f48594e186bd369\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_0eb94e123f5ef8c3d833d40b77aa641757df1f6d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_491e1aaacf3c05b13852d6d2e9bcbb505096ba15.jar" />
     </item>
     <item
         is-multidex="true"
@@ -786,21 +1137,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_8b25d09e4c2e179f38bdffb056fd3ca8f599d700\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_c96e1e5d0aefce6c3fe3434fd34a23ebda74932c\classes.dex" />
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_ea50bfcd3f23ab7e55d89e514ee87453a224c522\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -812,24 +1154,6 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_62891b4b7fa9d39115d2ed0a8797a5a662e52b63\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_8dc37c9d4d9b9473bc113fb15b3ce32032e93d05.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_2ad51c70cc1e69fe07631667ce58006394a0e2d6\classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
         jumboMode="true"
@@ -839,13 +1163,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_6d465b53edab268064d911b4d3033b247db78f64\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_cc1526ca58c2f6830b526194d1a10ed0d624f261.jar" />
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_fb3573dd986c76084af74bf0f51fd043a8603d42\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -857,13 +1181,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_bc969d0dbe25a48679490ebb2187cb93a12228cc\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_16f3b350cb90dc4519942c9cb8fe375c92ff4f4d.jar" />
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_69ba5bc84ae0145f8767b6ba08791b6fd318f06a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -875,13 +1199,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a6974de67fa3285ef5d1b587af80169d7abb0508\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_cdf2e5a4fcc51c81dc26163972b1145317d2d65f.jar" />
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_1d5b7a6e9d57b3f538dd271d41acb4aeea621c92\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -893,15 +1217,6 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_33114de9346a40b7f6eee8b100e4bc353b5e1289\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_cfd9811baf369865321d29f80ef86355b4c2ac1c.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
         jumboMode="true"
@@ -909,51 +1224,6 @@
         revision="24.0.1"
         sha1="d4ce6303165f20650850673bd5891fbcca80caae">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_f83b34cf46302dfb5ebd2b0125e77c233ecb2193\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_19a08a6120ecad9e5a769086e645ce3134b41b2b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_cd389944f23468a044f2f70620ff4447ce79548c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_f62a0d8c7147026b6029f942912f30718ec5c497.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e56237abd26879c3ff682d64973f416a1f4472f\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_cb4649546e9f5d444f231f7b83e4110b29e4a059.jar" />
     </item>
     <item
         is-multidex="true"
@@ -965,31 +1235,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_1a82ef376ee52d5f77f2a5e1c4a84a3d4d4c3b53\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_6eb1f32783601555e525d0a5bb369674372c5a67.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_fad01ce94e8c17f6d4ac1c11e5aba52812ff9a9b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_84926056fa049f05e5a9dd94a714a0e96a0ba087.jar" />
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_2ddf81d209ee62e4c93e892f32a1365c25d00699\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -999,15 +1251,6 @@
         revision="24.0.1"
         sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_e6943a28b81edcdab7c3f379319aa1fb1e0549b0\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_7d83edff26397bd5a802331c80da2598e2ef516f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -1020,66 +1263,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_5eb177f36ca45bdc60d63bdce013b454d60fc514\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_1ae4123743f7f7624990eaf4a533cb135b0af965\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_27f5e7a274751b640020a9ce54ccc520946308b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_db2bb72969ee2b50f7c3bee615ae8263a178e75e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e59bec7b6870432ff38e589b17ceece3d3e3225e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_51f3c674b0480f16943b547ebbe6b86151a92600.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_5bc243d783cef60cbc94292d35eb29b53e416565\classes.dex" />
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_956cdcbd55b65fbaf8b46446b9832829d70920b0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1109,40 +1298,13 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_42c1a7af48e7d7bc12ba79978ad90e4423391f15\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bed3af2221e0ca86556f83355cb122a4f1645fd7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_b61e5d4c6be676f13edc2225b999579a9511351f.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3cab06fc5765dd6137beabd25488c4f0b1ffacb0\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_bc969d0dbe25a48679490ebb2187cb93a12228cc.jar" />
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_bc969d0dbe25a48679490ebb2187cb93a12228cc\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1163,103 +1325,40 @@
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_66677d6701c5560ece0ce2744a8a1fcb7d7e3a7d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_f6f61e8d38b65fad286c3a9e6bad5a6da3a7a968.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_e2d9f1ac607b227873bf94199c2c30ea86257a92.jar" />
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_237a8b1859960bf895bbb2a7999662c7ea0b2b6d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_35ea651fde3552ab4f0cf0ca7240e0d6ec655c41\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_875617a82537e6ade053d6d97858f873fa90558d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a6974de67fa3285ef5d1b587af80169d7abb0508.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_5f41c7d1d6199f56c71b4edb3c719a6832e26d16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_aa32642e187cc14d60aab7bf224310f5d173289a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_1330431b068176452905e7614060cdc9b2a56744.jar" />
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a6974de67fa3285ef5d1b587af80169d7abb0508\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8e49bd6f73c45ecc5c75acf26c53c9251205cf24\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_62891b4b7fa9d39115d2ed0a8797a5a662e52b63.jar" />
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_d3fca5fe2eb982e2e5c1e64ef4c05430f5676a74\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_be0bd724ce9a37042a7ab62952072d4ec7a00dc1.jar" />
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_1a82ef376ee52d5f77f2a5e1c4a84a3d4d4c3b53\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1272,39 +1371,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_1bd4054c52e4de7a1e347303e2868d7fe8ab8c4c\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\gson-2.6.1_d3fca5fe2eb982e2e5c1e64ef4c05430f5676a74.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_16f3b350cb90dc4519942c9cb8fe375c92ff4f4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2e56237abd26879c3ff682d64973f416a1f4472f.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_62891b4b7fa9d39115d2ed0a8797a5a662e52b63\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1314,24 +1386,6 @@
         revision="24.0.1"
         sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_142f7c65e2bac2560b60cf68b6bff76c50a445ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_24df3a710f86e5cebf8077ce11c9413a02bb517b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_a41140e62ed203ab0951dfb523ec1eb085048674.jar" />
     </item>
     <item
         is-multidex="true"
@@ -1344,48 +1398,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e56f31b23ddb067f95f01255295167db7c798612">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_80afd7190fdfaf39991999c3e7270efb50eef21b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_ac03d0b15a31272bd2297d20029a33b06c95bbe7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_d051e33280beda986ba24a7bebeaa802f763bdff.jar" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
         sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
         <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_3ec8e2608945ab84817513389c39b55159338997\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="C:\Users\Lucas\AndroidStudioProjects\FoodTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_31b6e0e593a2bc4a06841b3e65e5abaad7b601a8.jar" />
     </item>
     <item
         is-multidex="true"
